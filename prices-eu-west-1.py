@@ -1,6 +1,4 @@
-from functools import reduce
-
-import requests, json
+import requests
 
 api_base = 'https://pricing.us-east-1.amazonaws.com'
 
